@@ -11,7 +11,7 @@
     <modules>
         <module>ticket-sale-start</module>
         <module>ticket-sale-controller</module>
-        <module>ticket-sale-start/ticket-sale-application</module>
+        <module>ticket-sale-application</module>
         <module>ticket-sale-application</module>
         <module>ticket-sale-infrastructure</module>
         <module>ticket-sale-domain</module>
